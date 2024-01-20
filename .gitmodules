@@ -1,0 +1,6 @@
+[submodule "UMDCTF"]
+	path = UMDCTF
+	url = git@github.com:a-hamza-r/UMDCTF.git
+[submodule "HACK-UCF"]
+	path = HACK-UCF
+	url = git@github.com:a-hamza-r/HACK-UCF.git
